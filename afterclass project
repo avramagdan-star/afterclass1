@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Famous monuments</title>
+    </head>
+    <body>
+
+        <h2>famous monuments</h2>
+        <a href="https://en.wikipedia.org/wiki/Taj_Mahal">taj mahal</a>
+        <a href="https://en.wikipedia.org/wiki/Eiffel_Tower">eiffel tower</a>
+        <a href="https://en.wikipedia.org/wiki/Statue_of_Liberty">statue of liberty</a>
+        <a href="https://en.wikipedia.org/wiki/Egyptian_pyramids">egyptian pyramids</a>
+        <a href="https://en.wikipedia.org/wiki/Great_Wall_of_China">great wall of china</a>
+
+        <h2>monument      location</h2>
+        <ul type="square">
+            <li> eiffell tower-  paris, france</li>
+            <li>taj mahal- arga, india</li>
+            <li>statue of liberty- new york, usa</li>
+            <li>egyptian pyramids- cairo, egypt</li>
+            <li>great wall of china- china</li>
+        </ul>
+    </body>
+</html>
